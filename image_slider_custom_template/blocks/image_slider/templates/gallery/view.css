@@ -1,0 +1,34 @@
+div.ccm-image-gallery-img {
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #0088FF;
+    height: 280px;
+    width: 220px;
+    float: left;
+    text-align: center;
+}
+
+div.ccm-image-gallery-img img {
+    display: inline;
+    margin: 5px;
+	height: 200px;
+    border: 1px solid #ffffff;
+}
+
+div.ccm-image-gallery-img a:hover img {
+    border:1px solid #0000ff;
+}
+
+div.ccm-image-gallery-title{
+	text-align: center;
+	font-weight: normal;
+	width: 220px;
+	margin:5px;
+}
+div.ccm-image-gallery-description {
+    text-align: center;
+    font-weight: normal;
+    width: 220px;
+    margin: 5px;
+}
+</style>
